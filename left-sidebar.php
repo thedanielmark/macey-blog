@@ -4,87 +4,87 @@
     </div>
     <ul class="nav">
         <li class="nav-item" id="homeNavLink">
-            <a class="nav-link" href="home.php">
+            <a class="nav-link" href="index.php">
                 <i class="mdi mdi-shield-home-outline menu-icon"></i>
-                <span class="menu-title">Home</span>
+                <span class="menu-title">Introduction</span>
             </a>
         </li>
         <li class="nav-item" id="attendanceNavLink">
-            <a class="nav-link" href="take-attendance-page.php">
+            <a class="nav-link" href="iupac.php">
                 <i class="mdi mdi-pencil-box-outline menu-icon"></i>
-                <span class="menu-title">Attendance</span>
+                <span class="menu-title">IUPAC nomenclature</span>
             </a>
         </li>
         <li class="nav-item" id="modifyNavLink">
-            <a class="nav-link" href="modify-attendance-page.php">
+            <a class="nav-link" href="organic_reaction.php">
                 <i class="mdi mdi-account-edit menu-icon"></i>
-                <span class="menu-title">Modify</span>
+                <span class="menu-title">Organic Reaction</span>
             </a>
         </li>
         <li class="nav-item" id="odNavLink">
-            <a class="nav-link" href="on-duty-page.php">
+            <a class="nav-link" href="organic_compound.php">
                 <i class="mdi mdi-tennis-ball menu-icon"></i>
-                <span class="menu-title">On-Duty</span>
+                <span class="menu-title">Organic Compound</span>
             </a>
         </li>
         <li class="nav-item" id="viewsNavLink">
-            <a class="nav-link" href="view-attendance-page.php">
+            <a class="nav-link" href="organic_synthesis.php">
                 <i class="mdi mdi-calendar-range menu-icon"></i>
-                <span class="menu-title">Views</span>
+                <span class="menu-title">Organic Synthesis</span>
             </a>
         </li>
         <li class="nav-item" id="timetableNavLink">
-            <a class="nav-link" href="my-timetable.php">
+            <a class="nav-link" href="bio.php">
                 <i class="mdi mdi-timetable menu-icon"></i>
-                <span class="menu-title">My Timetable</span>
+                <span class="menu-title">Biocatalysis</span>
             </a>
         </li>
         <li class="nav-item" id="exportNavLink">
-            <a class="nav-link" href="export-page.php">
+            <a class="nav-link" href="catalysis.php">
                 <i class="mdi mdi-file-excel menu-icon"></i>
-                <span class="menu-title">xPort Engine</span>
+                <span class="menu-title">Catalysis</span>
             </a>
         </li>
         <li class="nav-item" id="settingsNavLink">
-            <a class="nav-link" href="settings.php">
+            <a class="nav-link" href="molecular_sensor.php">
                 <i class="mdi mdi-tooltip-edit menu-icon"></i>
-                <span class="menu-title">Settings</span>
+                <span class="menu-title">Molecular Sensor</span>
             </a>
         </li>
         <li class="nav-item" id="downloadsNavLink">
-            <a class="nav-link" href="downloads.php">
+            <a class="nav-link" href="enantioselective_synthesis.php">
                 <i class="mdi mdi-cellphone-android menu-icon"></i>
-                <span class="menu-title">Mobile Apps</span>
+                <span class="menu-title">Enantioselective Synthesis</span>
             </a>
         </li>
         <li class="nav-item" id="supportNavLink">
-            <a class="nav-link" href="support.php">
+            <a class="nav-link" href="flow_chemistry.php">
                 <i class="mdi mdi-human menu-icon"></i>
-                <span class="menu-title">Get Support</span>
+                <span class="menu-title">Flow Chemistry</span>
             </a>
         </li>
         <li class="nav-item" id="contactNavLink">
-            <a class="nav-link" href="contact-page.php">
+            <a class="nav-link" href="green_chemistry.php">
                 <i class="mdi mdi-phone menu-icon"></i>
-                <span class="menu-title">Contact Us</span>
+                <span class="menu-title">Green Chemistry</span>
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="https://licet-xstack.mixspace.xyz" target="top">
+            <a class="nav-link" href="mechanochemistry.php">
                 <i class="mdi mdi-heart-pulse menu-icon"></i>
-                <span class="menu-title">xStack Status</span>
+                <span class="menu-title">Mechanochemistry</span>
             </a>
         </li>
         <li class="nav-item" id="aboutNavLink">
-            <a class="nav-link" href="about.php">
+            <a class="nav-link" href="photoredox_catalysis.php">
                 <i class="mdi mdi-information-outline menu-icon"></i>
-                <span class="menu-title">About</span>
+                <span class="menu-title">Photoredox Catalysis</span>
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#" onclick="logout()">
+            <a class="nav-link" href="acetal.php">
                 <i class="mdi mdi-logout menu-icon"></i>
-                <span class="menu-title">Logout</span>
+                <span class="menu-title">Acetal</span>
             </a>
         </li>
     </ul>

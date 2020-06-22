@@ -125,9 +125,9 @@
     <script src="js/dashboard.js"></script>
     <!-- End custom js for this page-->
     <script src="chatwidget.js"></script>
-
     <script>
-    var theUrl = "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Organic%20chemistry&prop=text" +
+    var theUrl =
+        "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Enantioselective%20synthesis&prop=text" +
         "&origin=*";
 
     function httpGet(theUrl) {

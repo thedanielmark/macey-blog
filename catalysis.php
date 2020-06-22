@@ -127,7 +127,7 @@
     <script src="chatwidget.js"></script>
 
     <script>
-    var theUrl = "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Organic%20chemistry&prop=text" +
+    var theUrl = "https://en.wikipedia.org/w/api.php?action=parse&format=json&page=Catalysis&prop=text" +
         "&origin=*";
 
     function httpGet(theUrl) {

@@ -1,7 +1,8 @@
 <footer class="footer">
     <div class="px-5 py-3 bg-lighter-custom d-sm-flex justify-content-center justify-content-sm-between">
         <div class="container">
-            <span class="text-dark text-center text-sm-left d-block d-sm-inline-block">&copy;
+            <span class="text-dark text-center text-sm-left d-block d-sm-inline-block"><span
+                    onclick="togglewidget()">&copy;</span>
                 <script>
                 var today = new Date();
                 var date = today.getFullYear();
@@ -17,7 +18,8 @@
                     style="text-decoration: none;">
                     <span class="mdi mdi-web menu-icon px-2"></span>
                 </a>
-                <a href="https://www.linkedin.com/company/mixspace/" target="top" class="text-muted" style="text-decoration: none;">
+                <a href="https://www.linkedin.com/company/mixspace/" target="top" class="text-muted"
+                    style="text-decoration: none;">
                     <span class="mdi mdi-linkedin menu-icon px-2"></span>
                 </a>
                 <a href="https://mixspace.xyz" target="top" class="text-muted" style="text-decoration: none;">
